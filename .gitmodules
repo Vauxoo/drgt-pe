@@ -1,0 +1,4 @@
+[submodule "drgt"]
+	path = drgt
+	url = git@git.vauxoo.com:vauxoo/drgt.git
+	branch = 18.0
